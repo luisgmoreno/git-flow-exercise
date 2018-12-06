@@ -1,6 +1,6 @@
 # Recipe Title
 
-A short recipe description.
+A  short recipe description.
 
 Source: https://www.allrecipes.com/recipe/228654/quick-oatmeal-pancakes/
 

@@ -1,6 +1,6 @@
 # Recipe Title
 
-A short recipe description.
+A  short recipe description.
 
 Source: https://example.com/link/to/original/recipe/
 
